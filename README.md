@@ -62,12 +62,13 @@ Follow these steps to set up and launch the chatbot in **Google Colab**:
 
 Once the above steps are completed, a public URL from ngrok will be provided. You can use this link to interact with your mental health chatbot in real time.
 
-**Contributors** : 
+##  Contributors
 
-**Vaibhav Walujkar**
-**Tanmay Sharma**
-**Dhroov Waddesai**
-**Mithilesh Singh**
+- **Vaibhav Walujkar**
+- **Tanmay Sharma**
+- **Dhroov Waddesai**
+- **Mithilesh Singh**
+
 
 ---
 >  **Note**: Ensure all Python files are in the same directory in your Colab environment and your ngrok account is properly set up before launching the chatbot.
