@@ -1,15 +1,15 @@
-# 🧠 Mental Health Chatbot using Machine Learning
+# Mental Health Chatbot using Machine Learning
 
 This project presents a comprehensive implementation of a **retrieval-based mental health chatbot** built using the **Pandora dataset**. The primary goal is to classify user intents and retrieve appropriate responses to support mental well-being.
 
 We explored and compared three different machine learning models:
-- 🧾 **Support Vector Machine (SVM)**
-- 🧠 **Artificial Neural Network (ANN)**
-- 🔁 **Recurrent Neural Network (RNN)**
+-  **Support Vector Machine (SVM)**
+-  **Artificial Neural Network (ANN)**
+-  **Recurrent Neural Network (RNN)**
 
 Each model was evaluated for its effectiveness in intent classification, a key component in determining the chatbot's ability to respond appropriately.
 
-## 🔍 Key Highlights
+##  Key Highlights
 
 - **Dataset Preprocessing**: Text cleaning, tokenization, and encoding techniques were applied for optimal model performance.
 - **Model Architectures**: Designed and trained SVM, ANN, and RNN models to handle multi-class classification of user intents.
@@ -19,7 +19,7 @@ Each model was evaluated for its effectiveness in intent classification, a key c
 
 ---
 
-## 🚀 How to Run (Google Colab Instructions)
+##  How to Run (Google Colab Instructions)
 
 Follow these steps to set up and launch the chatbot in **Google Colab**:
 
@@ -64,4 +64,4 @@ Once the above steps are completed, a public URL from ngrok will be provided. Yo
 
 ---
 
-> 💡 **Note**: Ensure all Python files are in the same directory in your Colab environment and your ngrok account is properly set up before launching the chatbot.
+>  **Note**: Ensure all Python files are in the same directory in your Colab environment and your ngrok account is properly set up before launching the chatbot.
