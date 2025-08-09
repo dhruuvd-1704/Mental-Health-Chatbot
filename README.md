@@ -66,7 +66,7 @@ Once the above steps are completed, a public URL from ngrok will be provided. Yo
 
 - **Vaibhav Walujkar**
 - **Tanmay Sharma**
-- **Dhroov Waddesai**
+- **Dhroov WaddDesai**
 - **Mithilesh Singh**
 
 
